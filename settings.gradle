@@ -1,0 +1,3 @@
+include ':UniversallProtocolLibrary'
+include ':app'
+rootProject.name = "UniversalProtocolLibrary"
